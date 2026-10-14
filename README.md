@@ -56,7 +56,9 @@ Aspiring Data Analyst
 
 ## Dashboard Preview
 
-![Sales Performance Dashboard](dashboard-preview.png)
+![Sales Performance Dashboard](dashboard-preview.pnG)
+
+
 
 
 
