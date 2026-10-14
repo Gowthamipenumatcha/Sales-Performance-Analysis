@@ -50,4 +50,7 @@ This project uses a small practice dataset of eight sample orders. The findings 
 
 ## Author
 
+Aspiring Data Analyst
+
+
 Aspiring Data Analyst | CSE Graduate (2024)
