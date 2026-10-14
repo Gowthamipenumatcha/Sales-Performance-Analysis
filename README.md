@@ -53,3 +53,11 @@ This project uses a small practice dataset of eight sample orders. The findings 
 ## Author
 
 Aspiring Data Analyst
+
+## Dashboard Preview
+
+![Sales Performance Dashboard](dashboard-preview.png)
+
+
+
+
